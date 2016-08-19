@@ -10,10 +10,10 @@ def number_to_binary(value):
     return result
 
 
-def convert_to_ascii(value):
+def convert_to_string(value):
     '''
-    Convert string to ascii for example:
-        B: 66
+    Convert binary to string for example:
+        01000010 : B
     '''
     print_ascii = ''
 

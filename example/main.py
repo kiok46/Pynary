@@ -10,5 +10,5 @@ value_str = ['01000010',
 
 value_bin = 'Bitcoin'
 
-print convert_to_ascii(value_str)
+print convert_to_string(value_str)
 print convert_to_binary(value_bin)
